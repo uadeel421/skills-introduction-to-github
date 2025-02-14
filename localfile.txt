@@ -1,2 +1,0 @@
-Hello, Git from local Repo
-Hello from Umar
